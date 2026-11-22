@@ -48,7 +48,7 @@ a lot
 -  Psi Chi (International Honor Society in Psychology)
 
 **Montana State University Billings** — College of Business (2009 – 2014)
-- Coursework in Business Administration — Finance  [Management Information Systems (MIS) Minor](https://catalog.msubillings.edu/undergraduate/college-business/department-business-administration/minor-information-systems/)
+- Major in [Business Administration, Finance Option](https://catalog.msubillings.edu/undergraduate/college-business/department-business-administration/bs-business-administration-finance-option/) Minor in [Management Information Systems (MIS)](https://catalog.msubillings.edu/undergraduate/college-business/department-business-administration/minor-information-systems/)
 - Student Arts Council (Chairman), The Rook Literary Journal (Editor-in-chief), The Retort Student Newspaper (design Editor)
 - Accredited by the Association to Advance Collegiate Schools of Business (AACSB). Fewer than 6% of business schools worldwide hold this designation. 
 
