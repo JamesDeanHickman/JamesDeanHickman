@@ -38,7 +38,7 @@ a lot
 **Indiana Tech** — [Cybersecurity Center](https://academics.indianatech.edu/cybersecurity-center) in the [Talwar College of Engineering & Computer Sciences](https://academics.indianatech.edu/talwar/) & College of Professional Studies 
 
 - Major in [Cybersecurity](https://academics.indianatech.edu/program/cybersecurity-bs/) Minor in [Industrial and Manufacturing Engineering](https://catalog.indianatech.edu/preview_program.php?catoid=22&poid=5746) (in progress, expected 2028)
--  was designated in 2023 a National Center of Academic Excellence in Cyber Defense (CAE-CD) by the National Centers of Academic Excellence in Cybersecurity (NCAE-C)
+- Designated a [Center of Academic Excellence in Cyber Defense (CAE-CD)](https://www.caecommunity.org/cop-cyber-defense) by the [National Centers of Academic Excellence in Cybersecurity (NCAE-C)](https://www.nsa.gov/Academics/Centers-of-Academic-Excellence/)
 - Program accredited by the [Computing Accreditation Commission](https://www.abet.org/about-abet/governance/accreditation-commissions-2-2/) of [ABET (Accreditation Board for Engineering and Technology)](https://www.abet.org/)
 
 **Montana State University Billings** — College of Liberal Arts & Social Sciences (2021 – 2024)
