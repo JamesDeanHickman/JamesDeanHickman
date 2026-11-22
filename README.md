@@ -1,58 +1,70 @@
-James Dean Hickman
+# James Dean Hickman
 
-Cybersecurity Undergraduate | Network Security | Systems Administration
+**Cybersecurity Undergraduate | Network Security | Systems Administration**
 
-Welcome to my GitHub.
+I'm a Bachelor of Science in Cybersecurity student at Indiana Tech, focused on practical networking, Linux server administration, defensive operations, and vulnerability assessment. This GitHub is where I document my labs, scripts, and independent projects.
 
-I'm pursuing a Bachelor of Science in Cybersecurity at Indiana Tech, with an additional focus on practical networking, server administration, cybersecurity operations, and vulnerability assessment.
+## 🎓 Education
 
-I'm building this portfolio to document my academic development, technical experiments, programming exercises, and independent cybersecurity projects.
-
----
-
-🎓 Education
-
-Indiana Tech
-
-- Bachelor of Science in Cybersecurity
+**Indiana Tech** — Talwar College of Engineering and Computer Sciences
+*Center for Academic Excellence in Cyber Defense (CAE-CD)*
+- B.S. in Cybersecurity
 - Cybersecurity Certificate (in progress)
+- Coursework: server systems, defensive and offensive cyber operations, script programming, network security
 
-🔐 Technical Interests
+## 🛠️ Tools & Skills
 
-- Cybersecurity Operations
-- Network Security
-- Linux and Server Administration
-- Python and Scripting
-- Defensive Security
-- Vulnerability Assessment
-- Network Auditing
+- **Systems:** Linux, server administration, virtual machines
+- **Scripting:** Python, shell scripting
+- **Security:** Defensive security, vulnerability assessment, network auditing
+- **Workflow:** Git, GitHub, technical documentation
 
-📚 Current Academic Focus
+## 🧪 Projects & Labs
 
-Course| Subject
-CS 1500| Introduction to Server Systems
-CYS 1100| Introduction to Cybersecurity
-CYS 2310| Defensive CyberOps and Audit
-CYS 3500| Offensive CyberOps & Vulnerability
-NET 2300| Script Programming
-NET 3300| Network Security
+I'm building this portfolio as I go. Current and planned work:
 
-🧪 Projects & Labs
+| Project | Focus | Status |
+|---|---|---|
+| Auth log parser | Python script to flag failed SSH logins | 🚧 Planned |
+| Linux server hardening | Baseline configuration and write-up | 🚧 Planned |
+| Network scan lab | Scanning and analysis in a home lab | 🚧 Planned |
 
-This portfolio is under development.
+*Links will go live as each project is published.*
 
-Upcoming documentation and projects will include:
+## 💼 Work Experience
 
-- Linux server administration labs
-- Networking and security exercises
-- Python scripting projects
-- Defensive security investigations
-- Authorized vulnerability assessment labs
+**Security Operations Specialist** — CBI Security Services
+- Performed security monitoring, access control, and incident reporting duties
 
-🎯 Professional Objective
+**Health Information Management (HIM) Technician** — One Sky Health (formerly Billings Clinic)
+- Handled protected health information (PHI) in line with HIPAA privacy requirements
 
-Develop practical cybersecurity capabilities through hands-on learning, technical documentation, independent research, and continuous professional development.
+**Paralegal Technology Specialist** — Plath Kemmick Law (formerly Russ Plath Law)
+- Managed confidential case documents and supported the firm's technology systems
 
----
+**Environmental Services (EVS) Technician** — Intermountain Health (formerly SCL Health)
+- Followed strict safety, infection-control, and compliance procedures in a healthcare setting
 
-Learning. Building. Securing.
+## 🎖️ Leadership & Training
+
+**Clearfield Job Corps Center**
+- Advanced Security & Protective Services Certification
+- Cadet Commanding Officer (C/CO), NJROTC
+
+**Montana Youth Challenge Academy (MYCA)**
+- National Guard Youth Challenge Certificate
+- 3rd Squad Leader, Bravo Platoon
+
+## 🔒 A Note on Lab Work
+
+All vulnerability assessment and offensive security work here is done in **my own isolated lab environments** or on **legal practice platforms** such as TryHackMe or Hack The Box. I don't publish real targets, credentials, or anything tied to systems I don't own or have permission to test.
+
+## 🎯 Goal
+
+Build hands-on cybersecurity skills through documented projects, independent research, and continuous learning.
+
+## 📫 Contact
+
+- LinkedIn: [linkedin.com/in/jamesdeanhickman](https://linkedin.com/in/jamesdeanhickman)
+
+*Learning. Building. Securing.*
