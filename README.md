@@ -48,13 +48,14 @@ a lot
 -  Psi Chi (International Honor Society in Psychology)
 
 **Montana State University Billings** — College of Business (2009 – 2014)
-- Coursework in Business Administration — Management Information System (MIS) & Finance
-- Student Arts Council (Chairman), The Rook Literary Journal, The Retort student newspaper
+- Coursework in Business Administration — Finance  [Management Information Systems (MIS) Minor](https://catalog.msubillings.edu/undergraduate/college-business/department-business-administration/minor-information-systems/)
+- Student Arts Council (Chairman), The Rook Literary Journal (Editor-in-chief), The Retort Student Newspaper (design Editor)
 
 **Weber State University** — [Telitha E. Lindquist College of Arts & Humanities](https://www.weber.edu/arts-humanities/) (2002 – 2003)
 
-- Coursework in Journalism and Communications
+- Coursework in Communication, Multimedia Journalism Emphasis (Major) Literary Editing (Minor)
 - WSU Honors Program, Intercollegiate Ethics Bowl, Society of Professional Journalists, Metaphor Literary Journal
+- [National Undergraduate Literature Conference's](https://www.weber.edu/nulc/) [Favorite Poem Project](https://www.favoritepoem.org/)
 
 
 
