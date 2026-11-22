@@ -16,7 +16,7 @@
 
 ## `$ whoami`
 
-I'm a Bachelor of Science in Cybersecurity student at Indiana Tech and a career changer with 15+ years of experience in communications, editorial management, and community leadership. My earlier roles include security operations and health information management under HIPAA, and I currently hold a trusted-access position in a regulated healthcare environment, handling secure access and PHI disposal. I'm building hands-on skills in Linux administration, network security, defensive operations, and vulnerability assessment. This GitHub is where I document my labs, scripts, and independent projects.
+I'm a Bachelor of Science in Cybersecurity student at Indiana Tech pivoting from 15+ years of experience in communications, editorial management, and community leadership. My earlier roles include security operations and health information management under HIPAA, and I currently hold a trusted-access position in a regulated healthcare environment, handling secure access and PHI disposal. I'm building hands-on skills in Linux administration, network security, defensive operations, and vulnerability assessment. This GitHub is where I document my labs, scripts, and independent projects.
 
 My editorial background trained me to verify information, protect sources, review work for accuracy, and take accountability for what gets published. Those are the same habits security work depends on.
 
