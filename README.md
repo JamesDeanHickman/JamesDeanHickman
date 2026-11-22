@@ -35,7 +35,7 @@ a lot
 
 
 
-**Indiana Tech** — [Cybersecurity Center](https://academics.indianatech.edu/cybersecurity-center) in the [Talwar College of Engineering & Computer Sciences](https://academics.indianatech.edu/talwar/) & College of Professional Studies 
+**Indiana Tech** — [Cybersecurity Center](https://academics.indianatech.edu/cybersecurity-center) in the [Talwar College of Engineering & Computer Sciences](https://academics.indianatech.edu/talwar/)
 
 - Major in [Cybersecurity](https://academics.indianatech.edu/program/cybersecurity-bs/) Minor in [Industrial and Manufacturing Engineering](https://catalog.indianatech.edu/preview_program.php?catoid=22&poid=5746) (in progress, expected 2028)
 - Designated a [Center of Academic Excellence in Cyber Defense (CAE-CD)](https://www.caecommunity.org/cop-cyber-defense) by the National Security Agency (NSA) and the Department of Homeland Security (DHS)
