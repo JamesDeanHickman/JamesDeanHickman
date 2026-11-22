@@ -103,13 +103,14 @@ All vulnerability assessment and offensive security work here is done in **my ow
 
 | Career |
 |---|
-| **Environmental Services (EVS) Technician** @ Intermountain Health, formerly SCL Health (2026 – Present)<br>• Hold a position of trust with secure access to restricted areas of a healthcare facility, following badge and key-control procedures<br>• Handle and dispose of materials containing protected health information (PHI) through secure disposal channels, in line with HIPAA privacy requirements |
+| **Environmental Services (EVS) Technician** @ Intermountain Health (2026 – Present)<br>• Hold a position of trust with secure access to restricted areas of a healthcare facility, following badge and key-control procedures<br>• Handle and dispose of materials containing protected health information (PHI) through secure disposal channels, in line with HIPAA privacy requirements |
 | **Director of Marketing & Public Relations (Self-Employed)** @ Brushfire Media (Dec 2015 – 2026)<br>• Ran an independent media business producing video, audio, and content for local businesses, events, and community initiatives<br>• Managed client relationships, project timelines, and delivery end to end |
 | **Marketing Communications & PR Manager** @ Yellowstone Art Museum (Jun 2016 – Dec 2019)<br>• Handled media relations and public communications for Montana's largest contemporary art museum<br>• Managed production of the museum's member and donor magazine |
 | **Managing Editor** @ Noise & Color Magazine (2012 – 2015)<br>• Core editor on a small team that published 35 issues in three years, on deadline and on a tight budget |
-| **Paralegal Technology Specialist** @ Plath Kemmick Law, formerly Russ Plath Law (2013 – 2015)<br>• Managed confidential case documents and supported the firm's technology systems |
-| **Health Information Management (HIM) Technician** @ One Sky Health, formerly Billings Clinic (2010 – 2013)<br>• Handled protected health information (PHI) in line with HIPAA privacy requirements |
-| **Security Operations Specialist** @ CBI Security Services (2002 – 2005)<br>• Performed security monitoring, access control, and incident reporting duties |
+| **Paralegal Technology Specialist** @ Plath Kemmick Law (2013 – 2015)<br>• Managed confidential case documents and supported the firm's technology systems |
+| **Health Information Management (HIM) Technician** @ One Sky Health (2010 – 2013)<br>• Helped transition paper medical charts to electronic medical records (EMR) in compliance with the HITECH Act of 2009 and the federal health IT adoption initiative while safeguarding patient data under HIPAA.   • Handled protected health information (PHI) in line with HIPAA privacy requirements |
+
+| **Security Operations Specialist** at the 2002 Salt Lake City Olympics @ CBI Security Services (2002 – 2005)<br>• Performed security monitoring, access control, and incident reporting duties |
 
 (*2005-2012 work includes reporting for the Billings Gazette, freelance arts writing, and design editing for publications.*)
 
