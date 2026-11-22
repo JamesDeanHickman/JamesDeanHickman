@@ -60,11 +60,11 @@ a lot
 
 Industry Certification Check-off: 
 * [x] [General Educational Development Credential](https://www.ged.com/) (2000)
-* [x] [Montana National Guard Youth Challenge Academy Certificate of Complexation](https://www.mycacademy.org/) (2000)
+* [x] [Montana National Guard Youth Challenge Academy](https://www.mycacademy.org/) Certificate of Complexation (2000)
 * [x] [CJCC & DHS Advanced Security & Protective Services Certification](https://www.jobcorps.gov/jobs/advanced-security-and-protective-services-) (2001)
 * [x] [CJCC Machinist Certification](https://www.jobcorps.gov/jobs/machining) (2001)
 * [x] [LinkedIn Six Sigma: White Belt](https://www.linkedin.com/learning/certificates/10463827f33a230e9d658dfe906340e2ec16d174db35591497ec0a5f4c9a66fa) (2001)
-* [ ] [Indiana Tech Cybersecurity Certification](https://academics.indianatech.edu/program/cybersecurity-certificate/) (In progress 2027)
+* [ ] [Indiana Tech Cybersecurity Certification](https://academics.indianatech.edu/program/cybersecurity-certificate/) (In progress 2024)
 * [ ] [Cisco CCST](https://www.cisco.com/site/us/en/learn/training-certifications/exams/ccst-cybersecurity.html) (entry-level): Basic networking or cybersecurity. No experience needed.
 * [ ] [ISC2 CC](https://www.isc2.org/certifications/cc) (entry-level): Core security concepts. No experience needed, all conceptual.
 * [ ] [CompTIA Security+](https://www.comptia.org/en-us/certifications/security/v8/) (baseline): The industry-standard starter cert. Broader scope, with some hands-on questions.
