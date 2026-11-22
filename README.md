@@ -65,15 +65,13 @@ workflow  = Git, GitHub, Adobe Illustrator
 
 ## `$ ./projects --status`
 
-<!-- TODO: replace 'PLANNED' with 'SHIPPED'. Currently accepting pull requests for motivation. -->
-
 ```
-[ PLANNED ] auth-log-parser         Python script to flag failed SSH logins
+[ SHIPPED ] auth.log.parser         SSH brute-force detection from auth logs
 [ PLANNED ] linux-server-hardening  Baseline configuration and write-up
 [ PLANNED ] network-scan-lab        Scanning and analysis in a home lab
 ```
 
-*Links go live as each project is published.*
+- 🔎 **[auth.log.parser](https://github.com/JamesDeanHickman/auth.log.parser)**: Python tool that flags brute-force SSH patterns and successful logins from flagged IPs. Standard library only, with tests and CI.
 
 ### `$ cat LAB_RULES.txt`
 
