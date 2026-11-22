@@ -42,7 +42,7 @@ a lot
 - Program accredited by the [Computing Accreditation Commission](https://www.abet.org/about-abet/governance/accreditation-commissions-2-2/) of [ABET (Accreditation Board for Engineering and Technology)](https://www.abet.org/)
 
 **Montana State University Billings** — College of Liberal Arts & Social Sciences (2021 – 2024)
-- Major: [Psychology 3+2 dual-degree Program](https://www.msubillings.edu/class/psych/index.htm) Minor: (Interdisciplinary Honors](https://www.msubillings.edu/honors/index.htm) (2021 – 2023)
+- Major: [Psychology 3+2 dual-degree Program](https://www.msubillings.edu/class/psych/index.htm) Minor: [Interdisciplinary Honors](https://www.msubillings.edu/honors/index.htm) (2021 – 2023)
 -  Psi Chi (International Honor Society in Psychology)
 
 **Montana State  Billings** — College of Business (2009 – 2014)
