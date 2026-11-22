@@ -54,7 +54,7 @@ a lot
 
 **Weber State University** — [Telitha E. Lindquist College of Arts & Humanities](https://www.weber.edu/arts-humanities/) (2002 – 2003)
 
-- Major in [Communication, Multimedia Journalism Emphasis](https://www.weber.edu/majors/multimedia-journalism.html) Minor in [Literary Editing]([Minor](https://catalog.weber.edu/preview_program.php?catoid=25&poid=14492&returnto=10176&_gl=1*fjsqfy*_gcl_au*MjExOTczOTEyMi4xNzk1Mzc2NzAz))
+- Major in [Communication, Multimedia Journalism Emphasis](https://www.weber.edu/majors/multimedia-journalism.html) Minor in [Literary Editing](https://catalog.weber.edu/preview_program.php?catoid=25&poid=14492&returnto=10176&_gl=1*fjsqfy*_gcl_au*MjExOTczOTEyMi4xNzk1Mzc2NzAz)
 - WSU Honors Program, Intercollegiate Ethics Bowl, Society of Professional Journalists, Metaphor Literary Journal
 - [National Undergraduate Literature Conference's](https://www.weber.edu/nulc/) [Favorite Poem Project](https://www.favoritepoem.org/)
 
