@@ -35,7 +35,7 @@ a lot
 
 
 
-**Indiana Tech** — Talwar College of Engineering and Computer Sciences
+**Indiana Tech** — [Talwar College of Engineering & Computer Sciences](https://academics.indianatech.edu/talwar/)
 
 - Studying in Indiana Tech's Cybersecurity Center, designated a National Center of Academic Excellence in Cyber Defense (CAE-CD) by the National Centers of Academic Excellence in Cybersecurity (NCAE-C)
 - Program accredited by the [Computing Accreditation Commission](https://www.abet.org/about-abet/governance/accreditation-commissions-2-2/) of [ABET (Accreditation Board for Engineering and Technology)](https://www.abet.org/)
@@ -43,13 +43,15 @@ a lot
 - [Cybersecurity Certificate](https://academics.indianatech.edu/program/cybersecurity-certificate/) (in progress)
 - Coursework: server systems, defensive and offensive cyber operations, script programming, network security
 
-**Montana State University Billings** (2009 – 2014 & 2021 – 2023)
+**Montana State University Billings** — College of Liberal Arts & Social Sciences (2021 – 2023)
+- 3+2 psychology program, a five-year dual-degree major (2021 – 2023)
+-  Psi Chi (International Honor Society in Psychology)
 
-- Coursework in Business Administration (MIS/Finance)
-- Coursework in a combined Bachelor's/Master's program in Psychology (2021 – 2023)
-- Psi Chi (International Honor Society in Psychology), Student Arts Council (Chairman), The Rook Literary Journal, The Retort student newspaper
+**Montana State University Billings** — College of Business (2009 – 2014)
+- Coursework in Business Administration — Management Information System (MIS) & Finance
+- Student Arts Council (Chairman), The Rook Literary Journal, The Retort student newspaper
 
-**Weber State University** — [Lindquist College of Arts & Humanities](https://www.weber.edu/arts-humanities/) (2002 – 2003)
+**Weber State University** — [Telitha E. Lindquist College of Arts & Humanities](https://www.weber.edu/arts-humanities/) (2002 – 2003)
 
 - Coursework in Journalism and Communications
 - WSU Honors Program, Intercollegiate Ethics Bowl, Society of Professional Journalists, Metaphor Literary Journal
