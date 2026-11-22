@@ -2,24 +2,27 @@
 
 **Cybersecurity Undergraduate | Network Security | Systems Administration**
 
-I'm a Bachelor of Science in Cybersecurity student at Indiana Tech and a career changer with 15+ years of experience in communications, editorial management, and running my own media business. I bring strong documentation and communication skills to practical networking, Linux server administration, defensive operations, and vulnerability assessment. This GitHub is where I document my labs, scripts, and independent projects.
+I'm a Bachelor of Science in Cybersecurity student at Indiana Tech and a career changer with 15+ years of experience in communications, editorial management, and community leadership. My earlier roles include security operations and health information management under HIPAA, and I currently work in a regulated healthcare environment. I'm building hands-on skills in Linux administration, network security, defensive operations, and vulnerability assessment. This GitHub is where I document my labs, scripts, and independent projects.
+
+My editorial background trained me to verify information, protect sources, review work for accuracy, and take accountability for what gets published. Those are the same habits security work depends on.
 
 ## 🎓 Education
 
 **Indiana Tech** — Talwar College of Engineering and Computer Sciences
 *Center for Academic Excellence in Cyber Defense (CAE-CD)*
-- B.S. in Cybersecurity
+- B.S. in Cybersecurity (in progress, expected 2028)
 - Cybersecurity Certificate (in progress)
 - Coursework: server systems, defensive and offensive cyber operations, script programming, network security
 
-**Montana State University Billings** (2009 – 2023)
-- Finance & Business Operations Major
+**Montana State University Billings** (2009 – 2014 & 2021 – 2023)
+- Coursework in Business Administration (MIS/Finance)
+- Coursework in a combined Bachelor's/Master's program in Psychology (2021 – 2023)
 - Psi Chi (International Honor Society in Psychology), Student Arts Council (Chairman), The Rook Literary Journal, The Retort student newspaper
 
 **Weber State University** — Lindquist College of Arts & Humanities (2002 – 2003)
-- Journalism & Communications Major 
+- Coursework in Journalism and Communications
 - WSU Honors Program, Intercollegiate Ethics Bowl, Society of Professional Journalists, Metaphor Literary Journal
-
+  
 ## 🛠️ Tools & Skills
 
 - **Systems:** Linux, server administration, virtual machines
@@ -45,30 +48,30 @@ All vulnerability assessment and offensive security work here is done in **my ow
 
 ## 💼 Work Experience
 
-**Security Operations Specialist** — CBI Security Services
-- Performed security monitoring, access control, and incident reporting duties
+**Environmental Services (EVS) Technician** — Intermountain Health, formerly SCL Health (2026 – Present)
+- Execute standardized infection-prevention and decontamination protocols in a regulated healthcare environment
+- Apply OSHA hazard-communication practices, including Safety Data Sheet (SDS) handling and PPE requirements
+- Follow documented procedures and compliance checklists to meet facility audit standards
 
-**Health Information Management (HIM) Technician** — One Sky Health (formerly Billings Clinic)
-- Handled protected health information (PHI) in line with HIPAA privacy requirements
-
-**Paralegal Technology Specialist** — Plath Kemmick Law (formerly Russ Plath Law)
-- Managed confidential case documents and supported the firm's technology systems
-
-**Environmental Services (EVS) Technician** — Intermountain Health (formerly SCL Health)
-- Executed standardized infection-prevention and decontamination protocols in a regulated healthcare environment
-- Applied OSHA hazard-communication practices, including Safety Data Sheet (SDS) handling and PPE requirements
-- Followed documented procedures and compliance checklists to meet facility audit standards
-
-**Director of Marketing & Public Relations (Self-Employed)** — Brushfire Media (Dec 2015 – Present)
-- Run an independent media business producing video, audio, and content for local businesses, events, and community initiatives
-- Manage client relationships, project timelines, and delivery end to end
+**Director of Marketing & Public Relations (Self-Employed)** — Brushfire Media (Dec 2015 – 2026)
+- Ran an independent media business producing video, audio, and content for local businesses, events, and community initiatives
+- Managed client relationships, project timelines, and delivery end to end
 
 **Marketing Communications & PR Manager** — Yellowstone Art Museum (Jun 2016 – Dec 2019)
 - Handled media relations and public communications for Montana's largest contemporary art museum
 - Managed production of the museum's member and donor magazine
 
-**Managing Editor** — Noise & Color Magazine (Nov 2012 – Nov 2015)
+**Managing Editor** — Noise & Color Magazine (2012 – 2015)
 - Led editorial operations and published 35 issues on deadline
+
+**Paralegal Technology Specialist** — Plath Kemmick Law, formerly Russ Plath Law (2013 – 2015)
+- Managed confidential case documents and supported the firm's technology systems
+
+**Health Information Management (HIM) Technician** — One Sky Health, formerly Billings Clinic (2010 – 2013)
+- Handled protected health information (PHI) in line with HIPAA privacy requirements
+
+**Security Operations Specialist** — CBI Security Services (2002 – 2005)
+- Performed security monitoring, access control, and incident reporting duties
 
 *Earlier work includes reporting for the Billings Gazette, freelance arts writing, and design editing for student publications.*
 
@@ -94,8 +97,8 @@ All vulnerability assessment and offensive security work here is done in **my ow
 **Leadership**
 - **President**, Canvas Art Collective (2012 – 2016)
 - **Chairman**, MSUB Student Arts Council (2009 – 2014)
-- **Cadet Commanding Officer (C/CO)**, NJROTC, Clearfield Job Corps Center
-- **3rd Squad Leader, Bravo Platoon**, Montana Youth Challenge Academy
+- **Cadet Commanding Officer (C/CO)**, NJROTC, Clearfield Job Corps Center ([dates])
+- **3rd Squad Leader, Bravo Platoon**, Montana Youth Challenge Academy ([dates])
 
 **Training & certificates**
 - Advanced Security & Protective Services Certification (Job Corps)
