@@ -37,16 +37,15 @@ a lot
 
 **Indiana Tech** — [Talwar College of Engineering & Computer Sciences](https://academics.indianatech.edu/talwar/)
 
-- Studying in Indiana Tech's Cybersecurity Center, designated a National Center of Academic Excellence in Cyber Defense (CAE-CD) by the National Centers of Academic Excellence in Cybersecurity (NCAE-C)
+- Major in [Cybersecurity](https://academics.indianatech.edu/program/cybersecurity-bs/) Minor in [Industrial and Manufacturing Engineering](https://catalog.indianatech.edu/preview_program.php?catoid=22&poid=5746) (in progress, expected 2028)
+- designated a National Center of Academic Excellence in Cyber Defense (CAE-CD) by the National Centers of Academic Excellence in Cybersecurity (NCAE-C)
 - Program accredited by the [Computing Accreditation Commission](https://www.abet.org/about-abet/governance/accreditation-commissions-2-2/) of [ABET (Accreditation Board for Engineering and Technology)](https://www.abet.org/)
-- Major in + [BS in Cybersecurity](https://academics.indianatech.edu/program/cybersecurity-bs/) Minor in [BS in Industrial and Manufacturing Engineering](https://catalog.indianatech.edu/preview_program.php?catoid=22&poid=5746) (in progress, expected 2028)
-- Coursework: server systems, defensive and offensive cyber operations, script programming, network security
 
 **Montana State University Billings** — College of Liberal Arts & Social Sciences (2021 – 2023)
 - 3+2 psychology program, a five-year dual-degree major (2021 – 2023)
 -  Psi Chi (International Honor Society in Psychology)
 
-**Montana State University Billings** — College of Business (2009 – 2014)
+**Montana State  Billings** — College of Business (2009 – 2014)
 - Major in [Business Administration, Finance Option](https://catalog.msubillings.edu/undergraduate/college-business/department-business-administration/bs-business-administration-finance-option/) Minor in [Management Information Systems (MIS)](https://catalog.msubillings.edu/undergraduate/college-business/department-business-administration/minor-information-systems/)
 - Chairman of the MSUB Student Arts Council, Editor-in-chief of the The Rook Literary Journal, Design Editor at the The Retort Student Newspaper
 - Accredited by the Association to Advance Collegiate Schools of Business (AACSB). Fewer than 6% of business schools worldwide hold this designation. 
