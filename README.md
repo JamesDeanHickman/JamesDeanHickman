@@ -35,24 +35,24 @@ a lot
 
 
 
-**Indiana Tech** — [Talwar College of Engineering & Computer Sciences](https://academics.indianatech.edu/talwar/)
+**Indiana Tech** — [Talwar College of Engineering & Computer Sciences](https://academics.indianatech.edu/talwar/) & College of Professional Studies 
 
 - Major in [Cybersecurity](https://academics.indianatech.edu/program/cybersecurity-bs/) Minor in [Industrial and Manufacturing Engineering](https://catalog.indianatech.edu/preview_program.php?catoid=22&poid=5746) (in progress, expected 2028)
 - designated a National Center of Academic Excellence in Cyber Defense (CAE-CD) by the National Centers of Academic Excellence in Cybersecurity (NCAE-C)
 - Program accredited by the [Computing Accreditation Commission](https://www.abet.org/about-abet/governance/accreditation-commissions-2-2/) of [ABET (Accreditation Board for Engineering and Technology)](https://www.abet.org/)
 
-**Montana State University Billings** — College of Liberal Arts & Social Sciences (2021 – 2023)
-- 3+2 psychology program, a five-year dual-degree major (2021 – 2023)
+**Montana State University Billings** — College of Liberal Arts & Social Sciences (2021 – 2024)
+- Major: [Psychology 3+2 dual-degree Program](https://www.msubillings.edu/class/psych/index.htm) Minor: (Interdisciplinary Honors(]https://www.msubillings.edu/honors/index.htm) (2021 – 2023)
 -  Psi Chi (International Honor Society in Psychology)
 
 **Montana State  Billings** — College of Business (2009 – 2014)
-- Major in [Business Administration, Finance Option](https://catalog.msubillings.edu/undergraduate/college-business/department-business-administration/bs-business-administration-finance-option/) Minor in [Management Information Systems (MIS)](https://catalog.msubillings.edu/undergraduate/college-business/department-business-administration/minor-information-systems/)
+- Major: [Business Administration, Finance Option](https://catalog.msubillings.edu/undergraduate/college-business/department-business-administration/bs-business-administration-finance-option/) Minor: [Management Information Systems (MIS)](https://catalog.msubillings.edu/undergraduate/college-business/department-business-administration/minor-information-systems/)
 - Chairman of the MSUB Student Arts Council, Editor-in-chief of the The Rook Literary Journal, Design Editor at the The Retort Student Newspaper
 - Accredited by the Association to Advance Collegiate Schools of Business (AACSB). Fewer than 6% of business schools worldwide hold this designation. 
 
 **Weber State University** — [Telitha E. Lindquist College of Arts & Humanities](https://www.weber.edu/arts-humanities/) (2002 – 2003)
 
-- Major in [Communication, Multimedia Journalism Emphasis](https://www.weber.edu/majors/multimedia-journalism.html) Minor in [Literary Editing](https://catalog.weber.edu/preview_program.php?catoid=25&poid=14492&returnto=10176&_gl=1*fjsqfy*_gcl_au*MjExOTczOTEyMi4xNzk1Mzc2NzAz)
+- Major: [Communication, Multimedia Journalism Emphasis](https://www.weber.edu/majors/multimedia-journalism.html) Minor: [Literary Editing](https://catalog.weber.edu/preview_program.php?catoid=25&poid=14492&returnto=10176&_gl=1*fjsqfy*_gcl_au*MjExOTczOTEyMi4xNzk1Mzc2NzAz)
 - WSU Honors Program, Intercollegiate Ethics Bowl, Society of Professional Journalists, Metaphor Literary Journal
 - [National Undergraduate Literature Conference's](https://www.weber.edu/nulc/) [Favorite Poem Project](https://www.favoritepoem.org/)
 
