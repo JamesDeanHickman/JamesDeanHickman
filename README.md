@@ -12,7 +12,7 @@
 
 ## `$ whoami`
 
-I'm a Bachelor of Science in Cybersecurity student at Indiana Tech and a career changer with 15+ years of experience in communications, editorial management, and community leadership. My earlier roles include security operations and health information management under HIPAA, and I currently work in a regulated healthcare environment. I'm building hands-on skills in Linux administration, network security, defensive operations, and vulnerability assessment. This GitHub is where I document my labs, scripts, and independent projects.
+I'm a Bachelor of Science in Cybersecurity student at Indiana Tech and a career changer with 15+ years of experience in communications, editorial management, and community leadership. My earlier roles include security operations and health information management under HIPAA, and I currently hold a trusted-access position in a regulated healthcare environment, handling secure access and PHI disposal. I'm building hands-on skills in Linux administration, network security, defensive operations, and vulnerability assessment. This GitHub is where I document my labs, scripts, and independent projects.
 
 My editorial background trained me to verify information, protect sources, review work for accuracy, and take accountability for what gets published. Those are the same habits security work depends on.
 
@@ -64,9 +64,8 @@ All vulnerability assessment and offensive security work here is done in **my ow
 ## `$ git log --career`
 
 **Environmental Services (EVS) Technician** — Intermountain Health, formerly SCL Health (2026 – Present)
-- Execute standardized infection-prevention and decontamination protocols in a regulated healthcare environment
-- Apply OSHA hazard-communication practices, including Safety Data Sheet (SDS) handling and PPE requirements
-- Follow documented procedures and compliance checklists to meet facility audit standards
+- Hold a position of trust with secure access to restricted areas of a healthcare facility, following badge and key-control procedures
+- Handle and dispose of materials containing protected health information (PHI) through secure disposal channels, in line with HIPAA privacy requirements
 
 **Director of Marketing & Public Relations (Self-Employed)** — Brushfire Media (Dec 2015 – 2026)
 - Ran an independent media business producing video, audio, and content for local businesses, events, and community initiatives
@@ -112,12 +111,12 @@ All vulnerability assessment and offensive security work here is done in **my ow
 **Leadership**
 - **President**, Canvas Art Collective (2012 – 2016)
 - **Chairman**, MSUB Student Arts Council (2009 – 2014)
-- **Cadet Commanding Officer (C/CO)**, NJROTC, Clearfield Job Corps Center (2001-2003)
+- **Cadet Commanding Officer (C/CO)**, NJROTC, Clearfield Job Corps Center (2001 – 2003)
 - **3rd Squad Leader, Bravo Platoon**, Montana Youth Challenge Academy (2000)
 
 **Training & certificates**
-- Advanced Security & Protective Services Certification (CJCC & DHS)
-- National Guard Youth Challenge Certificate (MYCA)
+- Advanced Security & Protective Services Certification, Clearfield Job Corps Center
+- National Guard Youth Challenge Certificate, Montana Youth Challenge Academy (2000)
 
 **Memberships**
 - Psi Chi, International Honor Society in Psychology (2021 – 2023)
