@@ -108,11 +108,9 @@ All vulnerability assessment and offensive security work here is done in **my ow
 | **Marketing Communications & PR Manager** @ Yellowstone Art Museum (Jun 2016 – Dec 2019)<br>• Handled media relations and public communications for Montana's largest contemporary art museum<br>• Managed production of the museum's member and donor magazine |
 | **Managing Editor** @ Noise & Color Magazine (2012 – 2015)<br>• Core editor on a small team that published 35 issues in three years, on deadline and on a tight budget |
 | **Paralegal Technology Specialist** @ Plath Kemmick Law (2013 – 2015)<br>• Managed confidential case documents and supported the firm's technology systems |
-| **Health Information Management (HIM) Technician** @ One Sky Health (2010 – 2013)<br>• Helped transition paper medical charts to electronic medical records (EMR) in compliance with the HITECH Act of 2009 and the federal health IT adoption initiative while safeguarding patient data under HIPAA.   • Handled protected health information (PHI) in line with HIPAA privacy requirements |
-
+| Health Information Management (HIM) Technician @ One Sky Health (2010 – 2013)<br>• Batch scanned millions of paper chart documents to support the transition to Cerner EMR under the HITECH Act<br>• Protected PHI in compliance with HIPAA throughout the digitization process |
+| Journalism, Writing and Design (2005-2012) Reporter for the Billings Gazette, culture writer for the Billings Outpost, and nightlife blogger for Billings365.com Graphic designer for various clients |
 | **Security Operations Specialist** at the 2002 Salt Lake City Olympics @ CBI Security Services (2002 – 2005)<br>• Performed security monitoring, access control, and incident reporting duties |
-
-(*2005-2012 work includes reporting for the Billings Gazette, freelance arts writing, and design editing for publications.*)
 
 ## `$ cat community.md`
 
