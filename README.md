@@ -49,12 +49,12 @@ a lot
 
 **Montana State University Billings** — College of Business (2009 – 2014)
 - Major in [Business Administration, Finance Option](https://catalog.msubillings.edu/undergraduate/college-business/department-business-administration/bs-business-administration-finance-option/) Minor in [Management Information Systems (MIS)](https://catalog.msubillings.edu/undergraduate/college-business/department-business-administration/minor-information-systems/)
-- Student Arts Council (Chairman), The Rook Literary Journal (Editor-in-chief), The Retort Student Newspaper (design Editor)
+- Chairman of the MSUB Student Arts Council, Editor-in-chief of the The Rook Literary Journal, Design Editor at the The Retort Student Newspaper
 - Accredited by the Association to Advance Collegiate Schools of Business (AACSB). Fewer than 6% of business schools worldwide hold this designation. 
 
 **Weber State University** — [Telitha E. Lindquist College of Arts & Humanities](https://www.weber.edu/arts-humanities/) (2002 – 2003)
 
-- Coursework in Communication, Multimedia Journalism Emphasis (Major) Literary Editing (Minor)
+- Major in [Communication, Multimedia Journalism Emphasis](https://www.weber.edu/majors/multimedia-journalism.html) Minor in [Literary Editing]([Minor](https://catalog.weber.edu/preview_program.php?catoid=25&poid=14492&returnto=10176&_gl=1*fjsqfy*_gcl_au*MjExOTczOTEyMi4xNzk1Mzc2NzAz))
 - WSU Honors Program, Intercollegiate Ethics Bowl, Society of Professional Journalists, Metaphor Literary Journal
 - [National Undergraduate Literature Conference's](https://www.weber.edu/nulc/) [Favorite Poem Project](https://www.favoritepoem.org/)
 
