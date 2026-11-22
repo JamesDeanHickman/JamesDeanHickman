@@ -7,6 +7,8 @@
 
 **Cybersecurity Undergraduate | Network Security | Systems Administration**
 
+**Seeking entry-level opportunities in security operations (SOC), IT support, GRC/compliance, or systems administration.**
+
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -82,9 +84,9 @@ All vulnerability assessment and offensive security work here is done in **my ow
 | Career |
 |---|
 | **Environmental Services (EVS) Technician** @ Intermountain Health, formerly SCL Health (2026 – Present)<br>• Hold a position of trust with secure access to restricted areas of a healthcare facility, following badge and key-control procedures<br>• Handle and dispose of materials containing protected health information (PHI) through secure disposal channels, in line with HIPAA privacy requirements |
-| **Director of Marketing & Public Relations (Self-Employed)** @ Brushfire Media (2015 – 2026)<br>• Ran an independent media business producing video, audio, and content for local businesses, events, and community initiatives<br>• Managed client relationships, project timelines, and delivery end to end |
-| **Marketing Communications & PR Manager** @ Yellowstone Art Museum (2016 – 2019)<br>• Handled media relations and public communications for Montana's largest contemporary art museum<br>• Managed production of the museum's member and donor magazine |
-| **Managing Editor** @ Noise & Color Magazine (2012 – 2015)<br>• Led editorial operations and published 35 issues on deadline |
+| **Director of Marketing & Public Relations (Self-Employed)** @ Brushfire Media (Dec 2015 – 2026)<br>• Ran an independent media business producing video, audio, and content for local businesses, events, and community initiatives<br>• Managed client relationships, project timelines, and delivery end to end |
+| **Marketing Communications & PR Manager** @ Yellowstone Art Museum (Jun 2016 – Dec 2019)<br>• Handled media relations and public communications for Montana's largest contemporary art museum<br>• Managed production of the museum's member and donor magazine |
+| **Managing Editor** @ Noise & Color Magazine (2012 – 2015)<br>• Core editor on a small team that published 35 issues in three years, on deadline and on a tight budget |
 | **Paralegal Technology Specialist** @ Plath Kemmick Law, formerly Russ Plath Law (2013 – 2015)<br>• Managed confidential case documents and supported the firm's technology systems |
 | **Health Information Management (HIM) Technician** @ One Sky Health, formerly Billings Clinic (2010 – 2013)<br>• Handled protected health information (PHI) in line with HIPAA privacy requirements |
 | **Security Operations Specialist** @ CBI Security Services (2002 – 2005)<br>• Performed security monitoring, access control, and incident reporting duties |
@@ -102,7 +104,7 @@ All vulnerability assessment and offensive security work here is done in **my ow
 - **Poetry Editor**, Metaphor Literary Journal, Weber State University (2002 – 2003)
 
 **Community projects I've organized and produced**
-- **Montana Slam** (2011 – 2017): co-founder and SlamMaster of Montana's first officially sanctioned poetry slam
+- **Montana Slam** (2010 – 2017): co-founder and SlamMaster of Montana's first officially sanctioned poetry slam; produced the annual Montana Slam championship and co-produced the High Plains Grand Slam, with 79 unique poets taking the stage
 - **Julia-Louis Dreyfest Poetry Jam** (2018 – present)
 - **Collective Loot** video game podcast (2011 – 2016)
 - **Localpalooza** concert series (2010 – 2015)
