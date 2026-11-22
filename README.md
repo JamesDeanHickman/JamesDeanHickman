@@ -1,52 +1,67 @@
-# James Dean Hickman
+```diff
++ James.Dean.Hickman <he/him/his>
++ [~] SEC_UNDERGRAD @ INDIANA_TECH
+```
 
 **Cybersecurity Undergraduate | Network Security | Systems Administration**
+
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Status](https://img.shields.io/badge/CAE__CD-ACTIVE-00ff41?style=for-the-badge)
+
+## `$ whoami`
 
 I'm a Bachelor of Science in Cybersecurity student at Indiana Tech and a career changer with 15+ years of experience in communications, editorial management, and community leadership. My earlier roles include security operations and health information management under HIPAA, and I currently work in a regulated healthcare environment. I'm building hands-on skills in Linux administration, network security, defensive operations, and vulnerability assessment. This GitHub is where I document my labs, scripts, and independent projects.
 
 My editorial background trained me to verify information, protect sources, review work for accuracy, and take accountability for what gets published. Those are the same habits security work depends on.
 
-## 🎓 Education
+## `$ cat education.log`
 
 **Indiana Tech** — Talwar College of Engineering and Computer Sciences
-*Center for Academic Excellence in Cyber Defense (CAE-CD)*
-- B.S. in Cybersecurity (in progress, expected 2028)
+
+- Center for Academic Excellence in Cyber Defense (CAE-CD)
+- B.S. in Cybersecurity (in progress, expected [year])
 - Cybersecurity Certificate (in progress)
 - Coursework: server systems, defensive and offensive cyber operations, script programming, network security
 
 **Montana State University Billings** (2009 – 2014 & 2021 – 2023)
+
 - Coursework in Business Administration (MIS/Finance)
 - Coursework in a combined Bachelor's/Master's program in Psychology (2021 – 2023)
 - Psi Chi (International Honor Society in Psychology), Student Arts Council (Chairman), The Rook Literary Journal, The Retort student newspaper
 
 **Weber State University** — Lindquist College of Arts & Humanities (2002 – 2003)
+
 - Coursework in Journalism and Communications
 - WSU Honors Program, Intercollegiate Ethics Bowl, Society of Professional Journalists, Metaphor Literary Journal
-  
-## 🛠️ Tools & Skills
 
-- **Systems:** Linux, server administration, virtual machines
-- **Scripting:** Python, shell scripting
-- **Security:** Defensive security, vulnerability assessment, network auditing
-- **Professional:** Technical writing and documentation, data analysis, project management, public speaking
-- **Workflow:** Git, GitHub, Adobe Illustrator
+## `$ ls ~/toolkit`
 
-## 🧪 Projects & Labs
+```ini
+[toolkit]
+systems   = Linux, server administration, virtual machines
+scripting = Python, shell scripting
+security  = defensive security, vulnerability assessment, network auditing
+pro       = technical writing, data analysis, project management, public speaking
+workflow  = Git, GitHub, Adobe Illustrator
+```
 
-I'm building this portfolio as I go. Current and planned work:
+## `$ ./projects --status`
 
-| Project | Focus | Status |
-|---|---|---|
-| Auth log parser | Python script to flag failed SSH logins | 🚧 Planned |
-| Linux server hardening | Baseline configuration and write-up | 🚧 Planned |
-| Network scan lab | Scanning and analysis in a home lab | 🚧 Planned |
+```
+[ PLANNED ] auth-log-parser         Python script to flag failed SSH logins
+[ PLANNED ] linux-server-hardening  Baseline configuration and write-up
+[ PLANNED ] network-scan-lab        Scanning and analysis in a home lab
+```
 
-*Links will go live as each project is published.*
+*Links go live as each project is published.*
 
-### 🔒 A Note on Lab Work
+### `$ cat LAB_RULES.txt`
+
 All vulnerability assessment and offensive security work here is done in **my own isolated lab environments** or on **legal practice platforms** such as TryHackMe or Hack The Box. I don't publish real targets, credentials, or anything tied to systems I don't own or have permission to test.
 
-## 💼 Work Experience
+## `$ git log --career`
 
 **Environmental Services (EVS) Technician** — Intermountain Health, formerly SCL Health (2026 – Present)
 - Execute standardized infection-prevention and decontamination protocols in a regulated healthcare environment
@@ -75,7 +90,7 @@ All vulnerability assessment and offensive security work here is done in **my ow
 
 *Earlier work includes reporting for the Billings Gazette, freelance arts writing, and design editing for student publications.*
 
-## 🤝 Volunteer Leadership & Community Projects
+## `$ cat community.md`
 
 **Volunteer roles**
 - **Creative Marketing Director**, Artspace Projects / Billings Artspace Project (2010 – 2016): supported a public/private effort to develop affordable live/work housing for artists in downtown Billings
@@ -92,16 +107,16 @@ All vulnerability assessment and offensive security work here is done in **my ow
 - **Localpalooza** concert series (2010 – 2015)
 - **KVLT Montana** (2012 – 2016) and **Montana Mixtape Project** (2013)
 
-## 🎖️ Leadership & Affiliations
+## `$ id --leadership`
 
 **Leadership**
 - **President**, Canvas Art Collective (2012 – 2016)
 - **Chairman**, MSUB Student Arts Council (2009 – 2014)
-- **Cadet Commanding Officer (C/CO)**, NJROTC, Clearfield Job Corps Center ([dates])
-- **3rd Squad Leader, Bravo Platoon**, Montana Youth Challenge Academy ([dates])
+- **Cadet Commanding Officer (C/CO)**, NJROTC, Clearfield Job Corps Center (2001-2003)
+- **3rd Squad Leader, Bravo Platoon**, Montana Youth Challenge Academy (2000)
 
 **Training & certificates**
-- Advanced Security & Protective Services Certification (Job Corps)
+- Advanced Security & Protective Services Certification (CJCC & DHS)
 - National Guard Youth Challenge Certificate (MYCA)
 
 **Memberships**
@@ -110,12 +125,14 @@ All vulnerability assessment and offensive security work here is done in **my ow
 - International Association of Professional Writers and Editors (2012 – 2015)
 - Society of Professional Journalists (2002 – 2006)
 
-## 🎯 Goal
+## `$ echo $GOAL`
 
 Build hands-on cybersecurity skills through documented projects, independent research, and continuous learning.
 
-## 📫 Contact
+## `$ contact --public`
 
 - LinkedIn: [linkedin.com/in/jamesdeanhickman](https://linkedin.com/in/jamesdeanhickman)
 
-*Learning. Building. Securing.*
+```diff
++ [~] Learning. Building. Securing.
+```
