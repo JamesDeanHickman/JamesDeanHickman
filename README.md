@@ -39,8 +39,7 @@ a lot
 
 - Studying in Indiana Tech's Cybersecurity Center, designated a National Center of Academic Excellence in Cyber Defense (CAE-CD) by the National Centers of Academic Excellence in Cybersecurity (NCAE-C)
 - Program accredited by the [Computing Accreditation Commission](https://www.abet.org/about-abet/governance/accreditation-commissions-2-2/) of [ABET (Accreditation Board for Engineering and Technology)](https://www.abet.org/)
-- [B.S. in Cybersecurity](https://academics.indianatech.edu/program/cybersecurity-bs/) (in progress, expected 2028)
-- [Cybersecurity Certificate](https://academics.indianatech.edu/program/cybersecurity-certificate/) (in progress)
+- Major in + [BS in Cybersecurity](https://academics.indianatech.edu/program/cybersecurity-bs/) Minor in [BS in Industrial and Manufacturing Engineering](https://catalog.indianatech.edu/preview_program.php?catoid=22&poid=5746) (in progress, expected 2028)
 - Coursework: server systems, defensive and offensive cyber operations, script programming, network security
 
 **Montana State University Billings** — College of Liberal Arts & Social Sciences (2021 – 2023)
@@ -61,14 +60,19 @@ a lot
 
 
 Industry Certification Check-off: 
-* [ ] 1. [Cisco CCST](https://www.cisco.com/site/us/en/learn/training-certifications/exams/ccst-cybersecurity.html) (entry-level): Basic networking or cybersecurity. No experience needed.
-* [ ] 2. [ISC2 CC](https://www.isc2.org/certifications/cc) (entry-level): Core security concepts. No experience needed, all conceptual.
-* [ ] 3. [CompTIA Security+](https://www.comptia.org/en-us/certifications/security/v8/) (baseline): The industry-standard starter cert. Broader scope, with some hands-on questions.
-* [ ] 4. [Cisco CCNA](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html) (networking): Routing, switching, subnetting and Cisco CLI. A big jump in technical depth.
-* [ ] 5. [ISC2 SSCP](https://www.isc2.org/certifications/sscp) (operations): Hands-on security administration. Needs 1 year of experience, waived with a cybersecurity degree.
-* [ ] 6. [CompTIA CySA+](https://www.comptia.org/en-us/certifications/cybersecurity-analyst/v4/) (defensive): Log analysis, SIEM, threat detection and incident response.
-* [ ] 7. [CompTIA PenTest+](https://www.comptia.org/en-us/certifications/pentest/) (offensive): Recon, exploitation, scripting and reporting.
-* [ ] 8. [ISC2 CISSP](https://www.isc2.org/certifications/cissp) (expert/management): Security architecture, risk and governance. Needs 5 years of experience, or 4 with a degree.
+* [x] National Guard Youth Challenge Certificate, Montana Youth Challenge Academy (2000)
+* [x] [CJCC & DHS Advanced Security & Protective Services Certification](https://www.jobcorps.gov/jobs/advanced-security-and-protective-services-) (2001)
+* [x] [CJCC Machinist Certification](https://www.jobcorps.gov/jobs/machining) (2001)
+* [x] [LinkedIn Six Sigma: White Belt](https://www.linkedin.com/learning/certificates/10463827f33a230e9d658dfe906340e2ec16d174db35591497ec0a5f4c9a66fa)
+* [ ] [Indiana Tech Cybersecurity Certification](https://academics.indianatech.edu/program/cybersecurity-certificate/) 
+* [ ] [Cisco CCST](https://www.cisco.com/site/us/en/learn/training-certifications/exams/ccst-cybersecurity.html) (entry-level): Basic networking or cybersecurity. No experience needed.
+* [ ] [ISC2 CC](https://www.isc2.org/certifications/cc) (entry-level): Core security concepts. No experience needed, all conceptual.
+* [ ] [CompTIA Security+](https://www.comptia.org/en-us/certifications/security/v8/) (baseline): The industry-standard starter cert. Broader scope, with some hands-on questions.
+* [ ] [Cisco CCNA](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html) (networking): Routing, switching, subnetting and Cisco CLI. A big jump in technical depth.
+* [ ] [ISC2 SSCP](https://www.isc2.org/certifications/sscp) (operations): Hands-on security administration. Needs 1 year of experience, waived with a cybersecurity degree.
+* [ ] [CompTIA CySA+](https://www.comptia.org/en-us/certifications/cybersecurity-analyst/v4/) (defensive): Log analysis, SIEM, threat detection and incident response.
+* [ ] [CompTIA PenTest+](https://www.comptia.org/en-us/certifications/pentest/) (offensive): Recon, exploitation, scripting and reporting.
+* [ ] [ISC2 CISSP](https://www.isc2.org/certifications/cissp) (expert/management): Security architecture, risk and governance. Needs 5 years of experience, or 4 with a degree.
 
 ## `$ ls ~/toolkit`
 
@@ -135,8 +139,7 @@ All vulnerability assessment and offensive security work here is done in **my ow
 - **3rd Squad Leader, Bravo Platoon**, Montana Youth Challenge Academy (2000)
 
 **Training & certificates**
-- Advanced Security & Protective Services Certification, Clearfield Job Corps Center
-- National Guard Youth Challenge Certificate, Montana Youth Challenge Academy (2000)
+-
 
 **Memberships**
 - Psi Chi, International Honor Society in Psychology (2021 – 2023)
