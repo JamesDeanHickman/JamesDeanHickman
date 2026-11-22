@@ -48,7 +48,7 @@ a lot
 **Montana State  Billings** — College of Business (2009 – 2014)
 - Major: [Business Administration, Finance Option](https://catalog.msubillings.edu/undergraduate/college-business/department-business-administration/bs-business-administration-finance-option/) Minor: [Management Information Systems (MIS)](https://catalog.msubillings.edu/undergraduate/college-business/department-business-administration/minor-information-systems/)
 - Chairperson of the Student Arts Council, Editor-in-chief for the The Rook Literary Journal, Design Editor for The Retort Student Newspaper
-- Accredited by the Association to Advance Collegiate Schools of Business (AACSB). Fewer than 6% of business schools worldwide hold this designation. 
+- [AACSB](https://www.aacsb.edu/)-accredited, a distinction held by fewer than 6% of business schools worldwide
 
 **Weber State University** — [Telitha E. Lindquist College of Arts & Humanities](https://www.weber.edu/arts-humanities/) (2002 – 2003)
 
