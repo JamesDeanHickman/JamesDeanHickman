@@ -49,7 +49,7 @@ a lot
 - Coursework in a combined Bachelor's/Master's program in Psychology (2021 – 2023)
 - Psi Chi (International Honor Society in Psychology), Student Arts Council (Chairman), The Rook Literary Journal, The Retort student newspaper
 
-**Weber State University** — Lindquist College of Arts & Humanities (2002 – 2003)
+**Weber State University** — [Lindquist College of Arts & Humanities](https://www.weber.edu/arts-humanities/) (2002 – 2003)
 
 - Coursework in Journalism and Communications
 - WSU Honors Program, Intercollegiate Ethics Bowl, Society of Professional Journalists, Metaphor Literary Journal
