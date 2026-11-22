@@ -36,8 +36,8 @@ a lot
 **Indiana Tech** — Talwar College of Engineering and Computer Sciences
 
 - Studying in Indiana Tech's Cybersecurity Center, designated a National Center of Academic Excellence in Cyber Defense (CAE-CD) by the National Centers of Academic Excellence in Cybersecurity (NCAE-C)
-- Program accredited by the Computing Accreditation Commission of ABET (Accreditation Board for Engineering and Technology)
-- B.S. in Cybersecurity (in progress, expected 2028)
+- Program accredited by the [Computing Accreditation Commission](https://www.abet.org/about-abet/governance/accreditation-commissions-2-2/) of [ABET (Accreditation Board for Engineering and Technology)](https://www.abet.org/)
+- [B.S. in Cybersecurity](https://academics.indianatech.edu/program/cybersecurity-bs/) (in progress, expected 2028)
 - [Cybersecurity Certificate](https://academics.indianatech.edu/program/cybersecurity-certificate/) (in progress)
 - Coursework: server systems, defensive and offensive cyber operations, script programming, network security
 
