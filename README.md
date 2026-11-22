@@ -105,11 +105,11 @@ Your career section is in good shape. I fixed a few formatting and ordering issu
 
 | Career |
 |---|
-| **Environmental Services (EVS) Technician** @ Intermountain Health (2026 – Present)<br>• Maintain a position of trust with secure access to restricted areas of a healthcare facility, following badge and key-control procedures<br>• Handle and dispose of materials containing protected health information (PHI) through secure disposal channels, in line with HIPAA privacy requirements |
+| **Environmental Services (EVS) Technician** @ Intermountain Health (2026 – Present)<br>• Maintain a position of trust with secure access to restricted areas of a healthcare facility, following badge and key-control procedures<br>• Handle and dispose of materials containing protected health information (PHI) through secure disposal channels, in line with HIPAA. |
 | **Marketing Communications & PR Manager** @ Yellowstone Art Museum (Jun 2016 – Dec 2019)<br>• Handled media relations and public communications for Montana's largest modern art museum<br>• Managed production of the museum's member and donor magazine |
 | **Director of Marketing & Public Relations (Self-Employed)** @ Brushfire Media (Dec 2015 – 2026)<br>• Ran an independent media business producing video, audio, and content for local businesses, events, and community initiatives<br>• Managed client relationships, project timelines, and delivery end to end |
 | **Paralegal Technology Specialist** @ Plath Kemmick Law (2013 – 2015)<br>• Managed confidential case documents and supported the firm's technology systems. managed eDiscovery and forensic device analisis. |
-| Edited a rotating staff of writers to publish 35 issues in three years (4,000-6,000 monthly circulation), on deadline and on a tight budget| 
+| **Managing Editor** @ Noise & Color Magazine (2012 – 2015)<br>• Edited a rotating staff of writers to publish 35 issues in three years (4,000-6,000 monthly circulation), on deadline and on a tight budget| 
 | **Health Information Management (HIM) Technician I** @ One Sky Health (2010 – 2013)<br>• Batch scanned millions of paper chart documents to support the transition to Cerner EMR under the HITECH Act<br>• Protected PHI in compliance with HIPAA throughout the digitization process |
 | **Journalism, Writing and Design** (2005 – 2012)<br>• Reporter for the Billings Gazette, culture writer for the Billings Outpost, and nightlife blogger for Billings365.com<br>• Graphic designer for various clients.|
 | **Security Operations Specialist** at the 2002 Salt Lake City Olympics @ CBI Security Services (2002 – 2005)<br>• Performed security monitoring, access control, and incident reporting duties |
