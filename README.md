@@ -36,6 +36,11 @@ My editorial background trained me to verify information, protect sources, revie
 - Coursework in Journalism and Communications
 - WSU Honors Program, Intercollegiate Ethics Bowl, Society of Professional Journalists, Metaphor Literary Journal
 
+**Training & certificates**
+- Six Sigma: White Belt, LinkedIn (2024)
+- Advanced Security & Protective Services Certification, Clearfield Job Corps Center (2001)
+- National Guard Youth Challenge Certificate, Montana Youth Challenge Academy (2000)
+
 ## `$ ls ~/toolkit`
 
 ```ini
@@ -63,29 +68,15 @@ All vulnerability assessment and offensive security work here is done in **my ow
 
 ## `$ git log --career`
 
-**Environmental Services (EVS) Technician** — Intermountain Health, formerly SCL Health (2026 – Present)
-- Hold a position of trust with secure access to restricted areas of a healthcare facility, following badge and key-control procedures
-- Handle and dispose of materials containing protected health information (PHI) through secure disposal channels, in line with HIPAA privacy requirements
-
-**Director of Marketing & Public Relations (Self-Employed)** — Brushfire Media (Dec 2015 – 2026)
-- Ran an independent media business producing video, audio, and content for local businesses, events, and community initiatives
-- Managed client relationships, project timelines, and delivery end to end
-
-**Marketing Communications & PR Manager** — Yellowstone Art Museum (Jun 2016 – Dec 2019)
-- Handled media relations and public communications for Montana's largest contemporary art museum
-- Managed production of the museum's member and donor magazine
-
-**Managing Editor** — Noise & Color Magazine (2012 – 2015)
-- Led editorial operations and published 35 issues on deadline
-
-**Paralegal Technology Specialist** — Plath Kemmick Law, formerly Russ Plath Law (2013 – 2015)
-- Managed confidential case documents and supported the firm's technology systems
-
-**Health Information Management (HIM) Technician** — One Sky Health, formerly Billings Clinic (2010 – 2013)
-- Handled protected health information (PHI) in line with HIPAA privacy requirements
-
-**Security Operations Specialist** — CBI Security Services (2002 – 2005)
-- Performed security monitoring, access control, and incident reporting duties
+| Career |
+|---|
+| **Environmental Services (EVS) Technician** @ Intermountain Health (2026 – Present)<br>• Hold a position of trust with secure access to restricted areas of a healthcare facility, following badge and key-control procedures<br>• Handle and dispose of materials containing protected health information (PHI) through secure disposal channels, in line with HIPAA privacy requirements |
+| **Director of Marketing & Public Relations (Self-Employed)** @ Brushfire Media (2015 – 2026)<br>• Ran an independent media business producing video, audio, and content for local businesses, events, and community initiatives<br>• Managed client relationships, project timelines, and delivery end to end |
+| **Marketing Communications & PR Manager** @ Yellowstone Art Museum (Jun 2016 – Dec 2019)<br>• Handled media relations and public communications for Montana's largest contemporary art museum<br>• Managed production of the museum's member and donor magazine |
+| **Managing Editor** @ Noise & Color Magazine (2012 – 2015)<br>• Led editorial operations and published 35 issues on deadline |
+| **Paralegal Technology Specialist** @ Plath Kemmick Law (2013 – 2015)<br>• Managed confidential case documents and supported the firm's technology systems |
+| **Health Information Management (HIM) Technician** @ One Sky Health (2010 – 2013)<br>• Handled protected health information (PHI) in line with HIPAA privacy requirements |
+| **Security Operations Specialist** @ CBI Security Services (2002 – 2005)<br>• Performed security monitoring, access control, and incident reporting duties |
 
 *Earlier work includes reporting for the Billings Gazette, freelance arts writing, and design editing for student publications.*
 
@@ -113,10 +104,6 @@ All vulnerability assessment and offensive security work here is done in **my ow
 - **Chairman**, MSUB Student Arts Council (2009 – 2014)
 - **Cadet Commanding Officer (C/CO)**, NJROTC, Clearfield Job Corps Center (2001 – 2003)
 - **3rd Squad Leader, Bravo Platoon**, Montana Youth Challenge Academy (2000)
-
-**Training & certificates**
-- Advanced Security & Protective Services Certification, Clearfield Job Corps Center
-- National Guard Youth Challenge Certificate, Montana Youth Challenge Academy (2000)
 
 **Memberships**
 - Psi Chi, International Honor Society in Psychology (2021 – 2023)
