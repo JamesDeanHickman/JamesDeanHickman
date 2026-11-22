@@ -104,7 +104,7 @@ All vulnerability assessment and offensive security work here is done in **my ow
 - **Poetry Editor**, Metaphor Literary Journal, Weber State University (2002 – 2003)
 
 **Community projects I've organized and produced**
-- **Montana Slam** (2010 – 2017): co-founder and SlamMaster of Montana's first officially sanctioned poetry slam; produced the annual Montana Slam championship and co-produced the High Plains Grand Slam, with 79 unique poets taking the stage
+- **Montana Slam** (2010 – 2017): co-founder and SlamMaster of Montana's first officially sanctioned poetry slam. Produced the annual Montana Slam championship (5 champions crowned, 2010 – 2014) and co-produced the High Plains Grand Slam with High Plains BookFest (3 champions crowned, 2014 – 2016). 79 unique poets performed across the series.
 - **Julia-Louis Dreyfest Poetry Jam** (2018 – present)
 - **Collective Loot** video game podcast (2011 – 2016)
 - **Localpalooza** concert series (2010 – 2015)
