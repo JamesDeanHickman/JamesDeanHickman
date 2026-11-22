@@ -60,7 +60,8 @@ a lot
 
 
 Industry Certification Check-off: 
-* [x] National Guard Youth Challenge Certificate, Montana Youth Challenge Academy (2000)
+* [x] General Educational Development Credential (2000)
+* [x] Montana National Guard Youth Challenge Academy Certificate of Complexation (2000)
 * [x] [CJCC & DHS Advanced Security & Protective Services Certification](https://www.jobcorps.gov/jobs/advanced-security-and-protective-services-) (2001)
 * [x] [CJCC Machinist Certification](https://www.jobcorps.gov/jobs/machining) (2001)
 * [x] [LinkedIn Six Sigma: White Belt](https://www.linkedin.com/learning/certificates/10463827f33a230e9d658dfe906340e2ec16d174db35591497ec0a5f4c9a66fa)
