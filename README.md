@@ -89,7 +89,7 @@ All vulnerability assessment and offensive security work here is done in **my ow
 | **Health Information Management (HIM) Technician** @ One Sky Health, formerly Billings Clinic (2010 – 2013)<br>• Handled protected health information (PHI) in line with HIPAA privacy requirements |
 | **Security Operations Specialist** @ CBI Security Services (2002 – 2005)<br>• Performed security monitoring, access control, and incident reporting duties |
 
-*Earlier work includes reporting for the Billings Gazette, freelance arts writing, and design editing for student publications.*
+(*2005-2012 work includes reporting for the Billings Gazette, freelance arts writing, and design editing for publications.*)
 
 ## `$ cat community.md`
 
