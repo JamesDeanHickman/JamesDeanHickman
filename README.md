@@ -33,6 +33,8 @@ a lot
 
 ## `$ cat education.log`
 
+
+
 **Indiana Tech** — Talwar College of Engineering and Computer Sciences
 
 - Studying in Indiana Tech's Cybersecurity Center, designated a National Center of Academic Excellence in Cyber Defense (CAE-CD) by the National Centers of Academic Excellence in Cybersecurity (NCAE-C)
@@ -51,6 +53,18 @@ a lot
 
 - Coursework in Journalism and Communications
 - WSU Honors Program, Intercollegiate Ethics Bowl, Society of Professional Journalists, Metaphor Literary Journal
+
+
+
+Industry Certification Check-off: 
+* [ ] 1. [Cisco CCST](https://www.cisco.com/site/us/en/learn/training-certifications/exams/ccst-cybersecurity.html) (entry-level): Basic networking or cybersecurity. No experience needed.
+* [ ] 2. [ISC2 CC](https://www.isc2.org/certifications/cc) (entry-level): Core security concepts. No experience needed, all conceptual.
+* [ ] 3. [CompTIA Security+](https://www.comptia.org/en-us/certifications/security/v8/) (baseline): The industry-standard starter cert. Broader scope, with some hands-on questions.
+* [ ] 4. [Cisco CCNA](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html) (networking): Routing, switching, subnetting and Cisco CLI. A big jump in technical depth.
+* [ ] 5. [ISC2 SSCP](https://www.isc2.org/certifications/sscp) (operations): Hands-on security administration. Needs 1 year of experience, waived with a cybersecurity degree.
+* [ ] 6. [CompTIA CySA+](https://www.comptia.org/en-us/certifications/cybersecurity-analyst/v4/) (defensive): Log analysis, SIEM, threat detection and incident response.
+* [ ] 7. [CompTIA PenTest+](https://www.comptia.org/en-us/certifications/pentest/) (offensive): Recon, exploitation, scripting and reporting.
+* [ ] 8. [ISC2 CISSP](https://www.isc2.org/certifications/cissp) (expert/management): Security architecture, risk and governance. Needs 5 years of experience, or 4 with a degree.
 
 ## `$ ls ~/toolkit`
 
